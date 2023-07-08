@@ -19,7 +19,8 @@ JavaScript
 HTML5
 CSS
 
-------------------------------------------------------------------------------------------
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 Sou uma pessoa apaixonada por código, lógica e conhecimento, novos desafios despertam minha curiosidade.
 Estudei e finalizei o curso "Argentina Programa" edicao de 2021, atualmente estou cursando progamacao na Associação Vestibulandos da Cidadania. Meu objetivo é continuar aprendendo coisas novas e utilizar esse conhecimento no mercado de trabalho. 
 Me considero uma pessoa comprometida e comunicativa.
