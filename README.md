@@ -4,6 +4,34 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+Soy una persona apasionada por el código, la lógica y el conocimiento, los nuevos retos despiertan mi curiosidad.
+Estudié y terminé el curso "Argentina Programa (edición 2021)", actualmente estoy estudiando programación en Associação Vestibulandos da Cidadania. Mi objetivo es seguir aprendiendo cosas nuevas y utilizar estos conocimientos en el mercado laboral. 
+Me considero una persona comprometida y comunicativa.
+
+Competencias:
+
+BackEnd:
+Node. JS
+
+FrontEnd:
+JavaScript
+HTML5
+CSS
+------------------------------------------------------------------------------------------
+Sou uma pessoa apaixonada por código, lógica e conhecimento, novos desafios despertam minha curiosidade.
+Estudei e finalizei o curso "Argentina Programa" edicao de 2021, atualmente estou cursando progamacao na Associação Vestibulandos da Cidadania. Meu objetivo é continuar aprendendo coisas novas e utilizar esse conhecimento no mercado de trabalho. 
+Me considero uma pessoa comprometida e comunicativa.
+
+Proficiências:
+
+BackEnd:
+Node. JS
+
+FrontEnd:
+JavaScript
+HTML5
+CSS
+
 ---------------------------------------------------------------------------------------------------------------------
 
 
