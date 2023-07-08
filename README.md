@@ -38,7 +38,7 @@ CSS
 
 
 ![crushcrushcrush99 github stats](https://github-readme-stats.vercel.app/api?username=crushcrushcrush99&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=crushcrushcrush99&theme=tokyonight" alt="mystreak"/>
 ![crushcrushcrush99 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crushcrushcrush99&theme=tokyonight&layout=compact)
 
 
