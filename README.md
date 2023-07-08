@@ -14,9 +14,11 @@ BackEnd:
 Node. JS
 
 FrontEnd:
+
 JavaScript
 HTML5
 CSS
+
 ------------------------------------------------------------------------------------------
 Sou uma pessoa apaixonada por código, lógica e conhecimento, novos desafios despertam minha curiosidade.
 Estudei e finalizei o curso "Argentina Programa" edicao de 2021, atualmente estou cursando progamacao na Associação Vestibulandos da Cidadania. Meu objetivo é continuar aprendendo coisas novas e utilizar esse conhecimento no mercado de trabalho. 
