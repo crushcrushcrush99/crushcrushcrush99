@@ -14,7 +14,7 @@ Sou uma pessoa apaixonada por código, lógica e conhecimento, novos desafios de
 Estudei e finalizei o curso "Argentina Programa" edicao de 2021, atualmente estou cursando progamacao na Associação Vestibulandos da Cidadania. Meu objetivo é continuar aprendendo coisas novas e utilizar esse conhecimento no mercado de trabalho. 
 Me considero uma pessoa comprometida e comunicativa.
 
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 👨‍💻 Languages and Tools:
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)] 
@@ -25,10 +25,6 @@ Me considero uma pessoa comprometida e comunicativa.
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)]
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)]
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)]
-
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 
 ![crushcrushcrush99 github stats](https://github-readme-stats.vercel.app/api?username=crushcrushcrush99&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=crushcrushcrush99&theme=tokyonight" alt="mystreak"/>
