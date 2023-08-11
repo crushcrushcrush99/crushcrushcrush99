@@ -25,7 +25,7 @@ Me considero uma pessoa comprometida e comunicativa.
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)]
 [![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)]
 [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)]
-<br>
+
 
 ![crushcrushcrush99 github stats](https://github-readme-stats.vercel.app/api?username=crushcrushcrush99&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=crushcrushcrush99&theme=tokyonight" alt="mystreak"/>
