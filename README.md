@@ -70,10 +70,10 @@ Me considero uma pessoa comprometida e comunicativa.
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-<a>
-  <img scr="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/>
-</a>
+    
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 <br />
+
 
 
 ![crushcrushcrush99 github stats](https://github-readme-stats.vercel.app/api?username=crushcrushcrush99&show_icons=true&theme=tokyonight)
