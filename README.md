@@ -8,32 +8,24 @@ Soy una persona apasionada por el código, la lógica y el conocimiento, los nue
 Estudié y terminé el curso "Argentina Programa (edición 2021)", actualmente estoy estudiando programación en Associação Vestibulandos da Cidadania. Mi objetivo es seguir aprendiendo cosas nuevas y utilizar estos conocimientos en el mercado laboral. 
 Me considero una persona comprometida y comunicativa.
 
-Competencias:
-
-BackEnd:
-Node. JS
-
-FrontEnd:
-
-JavaScript
-HTML5
-CSS
-
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 Sou uma pessoa apaixonada por código, lógica e conhecimento, novos desafios despertam minha curiosidade.
 Estudei e finalizei o curso "Argentina Programa" edicao de 2021, atualmente estou cursando progamacao na Associação Vestibulandos da Cidadania. Meu objetivo é continuar aprendendo coisas novas e utilizar esse conhecimento no mercado de trabalho. 
 Me considero uma pessoa comprometida e comunicativa.
 
-Proficiências:
 
-BackEnd:
-Node. JS
 
-FrontEnd:
-JavaScript
-HTML5
-CSS
+### 👨‍💻 Languages and Tools:
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)] 
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)] 
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)] 
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)]
+[![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)]
+[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/BRdhanani)]
+[![Typescript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/BRdhanani)]
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)]
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
