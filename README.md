@@ -17,7 +17,8 @@ Me considero uma pessoa comprometida e comunicativa.
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ### 👨‍💻 Languages and Tools:
-<p align="center">
+
+
   <a href="https://www.java.com" target="_blank"> 
       <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
         alt="java"/> 
@@ -69,7 +70,7 @@ Me considero uma pessoa comprometida e comunicativa.
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-</p>
+
     
  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
