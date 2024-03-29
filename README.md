@@ -2,6 +2,8 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
+</br>
+
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 Soy una persona apasionada por el código, la lógica y el conocimiento, los nuevos retos despiertan mi curiosidad.
