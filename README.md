@@ -2,9 +2,9 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-</br>
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+</br>
 
 Soy una persona apasionada por el código, la lógica y el conocimiento, los nuevos retos despiertan mi curiosidad.
 Estudié y terminé el curso "Argentina Programa (edición 2021)", actualmente estoy estudiando programación en Associação Vestibulandos da Cidadania. Mi objetivo es seguir aprendiendo cosas nuevas y utilizar estos conocimientos en el mercado laboral. 
